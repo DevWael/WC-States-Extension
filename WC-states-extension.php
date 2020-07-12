@@ -38,7 +38,7 @@ class WCSE_States {
 	}
 
 	public function init() {
-		add_action( 'plugins_loaded', array( $this, 'load_plugin_textdomain' ), 10 );
+		add_action( 'plugins_loaded', array( $this, 'load_plugin_textdomain' ), 1000 );
 		add_filter( 'woocommerce_states', array( $this, 'states' ), 100, 1 );
 	}
 
@@ -51,7 +51,7 @@ class WCSE_States {
 		load_plugin_textdomain(
 			'wcse',
 			false,
-			dirname( dirname( plugin_basename( __FILE__ ) ) ) . '/languages/'
+			dirname(  plugin_basename( __FILE__ ) ) . '/languages/'
 		);
 	}
 
