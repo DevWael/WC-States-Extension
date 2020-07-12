@@ -1,0 +1,1152 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC States Extension\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-12 10:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: classes/WCSE_Saudi.php:13
+msgid "Abha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:15
+msgid "Abu Arish"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:12
+msgid "Abu Dhabi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:226
+msgid "Ad Dahinah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:64
+msgid "Ad Darb"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:68
+msgid "Ad Dilam"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:71
+msgid "Ad Diriyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:227
+msgid "Ad Dubaiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:16
+msgid "Afif"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:18
+msgid "Ahad Al Masarihah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:19
+msgid "Ahad Rafidah"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ahmad Wael"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:20
+msgid "Ain Dar"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:13
+msgid "Ajman"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:17
+msgid "Al Aflaj"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:14
+msgid "Al Ain"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:228
+msgid "Al Ais"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:229
+msgid "Al Ajfar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:33
+msgid "Al Aqiq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:35
+msgid "Al Artawiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:39
+msgid "Al Atawlah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:40
+msgid "Al Awamiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:42
+msgid "Al Ayun"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:45
+msgid "Al Bad"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:43
+msgid "Al Badayea"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:21
+msgid "Al Bashayer"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:53
+msgid "Al Batha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:54
+msgid "Al Bijadyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:57
+msgid "Al Birk"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:60
+msgid "Al Bukayriyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:23
+msgid "Al Dayer"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:22
+msgid "Al Dulaymiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:76
+msgid "Al Duwadimi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:235
+msgid "Al Edabi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:25
+msgid "Al Ghat"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:249
+msgid "Al Ghazalah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:81
+msgid "Al Hadithah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:84
+msgid "Al Haeer"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:232
+msgid "Al Hait"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:88
+msgid "Al Hariq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:24
+msgid "Al Hassa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:233
+msgid "Al Hayathem"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:91
+msgid "Al Henakiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:92
+msgid "Al Hofuf"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:234
+msgid "Al Hulayfah As Sufla"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:89
+msgid "Al Huwaya"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:238
+msgid "Al Jesh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:99
+msgid "Al Jowf"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:253
+msgid "Al Ju& #39"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:100
+msgid "Al Jubail"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:105
+msgid "Al Kamil"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:255
+msgid "Al Karbus"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:27
+msgid "Al Khabra"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:107
+msgid "Al Kharj"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:108
+msgid "Al Khitah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:109
+msgid "Al Khobar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:111
+msgid "Al Khurma"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:113
+msgid "Al Laith"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:28
+msgid "Al Madha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:118
+msgid "Al Majmaah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:123
+msgid "Al Makhwah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:122
+msgid "Al Mithnab"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:236
+msgid "Al Moya"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:126
+msgid "Al Mubarraz"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:130
+msgid "Al Mushaytiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:127
+msgid "Al Muwayh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:131
+msgid "Al Muzahimiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:132
+msgid "Al Nabah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:144
+msgid "Al Qahma"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:143
+msgid "Al Qaid"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:151
+msgid "Al Qaisumah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:145
+msgid "Al Qalibah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:146
+msgid "Al Qarah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:148
+msgid "Al Qasab"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:154
+msgid "Al Qunfudhah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:155
+msgid "Al Qurayyat"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:156
+msgid "Al Quwaiiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:206
+msgid "Al Tuwal"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:141
+msgid "Al Ula"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:142
+msgid "Al Uyaynah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:216
+msgid "Al Wadeen"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:218
+msgid "Al Wajh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:237
+msgid "Al Wusayta"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:272
+msgid "Al-Shemaysi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:26
+msgid "Alhada"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:120
+msgid "Almandaq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:129
+msgid "Almuzaylif"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:242
+msgid "AlShinana"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:31
+msgid "Amaq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:135
+msgid "An Nabhaniyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:134
+msgid "An Nabiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:239
+msgid "An Nuqrah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:32
+msgid "Anak"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:29
+msgid "Ar Rass"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:168
+msgid "Ar Rayn"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:30
+msgid "Ar Ruqi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:34
+msgid "Arar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:230
+msgid "Ardah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:231
+msgid "Arja"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:174
+msgid "As Saffaniyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:176
+msgid "As Sahna"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:184
+msgid "As Sail Al Kabeer"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:182
+msgid "As Sarrar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:193
+msgid "As Sulayyil"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:36
+msgid "Asfan"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:241
+msgid "Ash Shamli"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:240
+msgid "Ash Shara& #39"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:188
+msgid "Ash Shifa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:38
+msgid "Ash Shuqayq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:37
+msgid "Asuwayq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:282
+msgid "At Taniem"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:243
+msgid "Ath Thybiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:41
+msgid "Ayn lbn Fuhayd"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:220
+msgid "Az Zulfi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:44
+msgid "Badr"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:244
+msgid "Badr Al Janoub"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:46
+msgid "Bahah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:48
+msgid "Bahrah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:47
+msgid "Bahrain Causeway"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:245
+msgid "Bahrat Al Moujoud"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:49
+msgid "Baish"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:246
+msgid "Balahmar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:56
+msgid "Baljurashi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:247
+msgid "Balqarn"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:55
+msgid "Bani Malik"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:248
+msgid "Baqa Ash Sharqiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:51
+msgid "Baqaa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:52
+msgid "Bariq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:50
+msgid "Billasmar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:58
+msgid "Bir Ibn Hirmas"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:222
+msgid "Bish"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:59
+msgid "Bisha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:14
+msgid "Buqayq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:61
+msgid "Buraydah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:66
+msgid "Dahaban"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:62
+msgid "Damad"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:63
+msgid "Dammam"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:69
+msgid "Dhahran"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:70
+msgid "Dhahran Al Janoob"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:65
+msgid "Dhalm"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:72
+msgid "Dhurma"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:67
+msgid "Dirab"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:74
+msgid "Duba"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:15
+msgid "Dubai"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:75
+msgid "Duhknah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:73
+msgid "Dumah Al Jandal"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:77
+msgid "Farasan"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:16
+msgid "Fujairah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:250
+msgid "Ghtai"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:78
+msgid "Gilwa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:80
+msgid "Hadda"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:82
+msgid "Hafar Al Batin"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:83
+msgid "Hail"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:85
+msgid "Halat Ammar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:86
+msgid "Haql"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:87
+msgid "Haradh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:251
+msgid "Harjah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:94
+msgid "Hautat Sudair"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:223
+msgid "Hawea Taif"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:224
+msgid "Haweyah Dha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:252
+msgid "Hazem Aljalamid"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:90
+msgid "Howtat Bani Tamim"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/DevWael"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/DevWael/WC-States-Extension"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:93
+msgid "Huraymila"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:95
+msgid "Jafar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:97
+msgid "Jalajil"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:96
+msgid "Jash"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:79
+msgid "Jazan"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:98
+msgid "Jeddah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:101
+msgid "Jumum"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:254
+msgid "Kara& #39"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:102
+msgid "Khafji"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:104
+msgid "Khamaseen"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:106
+msgid "Khamis Mushait"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:256
+msgid "Khasawyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:103
+msgid "Khaybar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:257
+msgid "Khodaria"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:110
+msgid "Khulais"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:112
+msgid "King Khalid Military City"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:116
+msgid "Mahd Al Thahab"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:117
+msgid "Majarda"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:115
+msgid "Manifah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:125
+msgid "Marat"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:121
+msgid "Mastorah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:258
+msgid "Mawqaq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:119
+msgid "Mecca"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:114
+msgid "Medina"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:259
+msgid "Moqaq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:260
+msgid "Mubayid"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:124
+msgid "Muhayil"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:261
+msgid "Mulayh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:128
+msgid "Mulayjah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:262
+msgid "Munifat Al Qaid"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:137
+msgid "Najran"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:133
+msgid "Nakeea"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:138
+msgid "Namas"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:263
+msgid "Namerah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:139
+msgid "Nifi"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:264
+msgid "Nisab"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:136
+msgid "Noweirieh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:225
+msgid "Nwariah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:147
+msgid "Qaryat Al Ulya"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:149
+msgid "Qassim"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:150
+msgid "Qatif"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:152
+msgid "Qilwah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:153
+msgid "Qina"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:265
+msgid "Qufar"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:157
+msgid "Rabigh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:159
+msgid "Rafayaa Al Gimsh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:158
+msgid "Rafha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:160
+msgid "Rahima"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:17
+msgid "Rak"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:161
+msgid "Ranyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:162
+msgid "Ras Al Khair"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:163
+msgid "Ras Tanura"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:267
+msgid "Raudat Sudair"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:266
+msgid "Rawdat Habbas"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:164
+msgid "Rijal Alma"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:166
+msgid "Riyadh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:167
+msgid "Riyadh Al Khabra"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:165
+msgid "Rumah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:268
+msgid "Rvaya Aljamsh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:169
+msgid "Rwaydah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:170
+msgid "Sabt Al Alayah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:171
+msgid "Sabya"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:269
+msgid "Sadyan"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:175
+msgid "Safwa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:185
+msgid "Saihat"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:172
+msgid "Saira"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:177
+msgid "Sajir"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:178
+msgid "Sakaka"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:179
+msgid "Salbukh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:180
+msgid "Salwa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:181
+msgid "Samtah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:183
+msgid "Sarat Abidah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:270
+msgid "Satorp Jubail Ind"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:173
+msgid "Sayirah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:186
+msgid "Shaqra"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:192
+msgid "Shari"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:18
+msgid "Sharjah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:187
+msgid "Sharourah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:191
+msgid "Shaybah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:189
+msgid "Shedgum"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:190
+msgid "Shigry"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:271
+msgid "Shinanh"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:273
+msgid "Simira"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:274
+msgid "Subheka"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:195
+msgid "Tabuk"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:196
+msgid "Taif"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:197
+msgid "Tala'at Naza"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:198
+msgid "Tanajib"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:199
+msgid "Tanuma"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:277
+msgid "Tanumah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:207
+msgid "Tarib"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:200
+msgid "Tarout"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:201
+msgid "Tathleeth"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:275
+msgid "Tayba"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:202
+msgid "Tayma"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:276
+msgid "Tendaha"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:203
+msgid "Thadiq"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:278
+msgid "Tharmda"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:205
+msgid "Thuqbah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:194
+msgid "Tubarjal"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:204
+msgid "Tumair"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:279
+msgid "Turaib"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:208
+msgid "Turaif"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:209
+msgid "Turbah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:210
+msgid "Udhailiyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:213
+msgid "Uglat Asugour"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:212
+msgid "Umluj"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:211
+msgid "Umm Al Jamajm"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:19
+msgid "Umm al-Quwain"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:140
+msgid "Unayzah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:280
+msgid "Ushaiqer"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:214
+msgid "Uthmaniyah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:215
+msgid "Uyun Al Jawa"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:221
+msgid "Wadi ad-Dawasir"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:281
+msgid "Wadi Fatmah"
+msgstr ""
+
+#: classes/WCSE_Saudi.php:217
+msgid "Wadi Ibn Hasbal"
+msgstr ""
+
+#. Name of the plugin
+msgid "WC States Extension"
+msgstr ""
+
+#: classes/WCSE_Emirates.php:20
+msgid "Western Region"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress Plugins that adds Arabian states to woocommerce."
+msgstr ""
+
+#: classes/WCSE_Saudi.php:219
+msgid "Yanbu"
+msgstr ""
